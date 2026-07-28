@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "e518a86867134859",
+    "type": "split",
+    "children": [
+      {
+        "id": "1afdefcceca5cd51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dac2832d0eb0a38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer archetecture/Day 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3a33ab5afb522ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "5924343a6c098329",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "837e53dd3efb4e2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "377d991d29a8d2b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c1b9aa2811d4f45b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c02ee9ff97031546",
+    "type": "split",
+    "children": [
+      {
+        "id": "d703abf2f02df529",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "385239022bf8d931",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "computer archetecture/Day 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Day 2"
+            }
+          },
+          {
+            "id": "eae5a8d9ece032d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "61e7716a2eb4f530",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "be7574d0ea4c05e1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "275262683d91f2ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7dac2832d0eb0a38",
+  "lastOpenFiles": [
+    "computer archetecture/Day 3.md",
+    "day4.canvas",
+    "computer archetecture/Day 4.md",
+    "computer archetecture/Numeric Characters.md",
+    "Web Thingy/JavaScript code transformation.md",
+    "00000/WEB.md",
+    "00000/Git.md",
+    "Information System/Intro to Information System.md",
+    "00000",
+    "Web Thingy",
+    "Iapp/Intro to Internet Application.md",
+    "computer archetecture/Day 2.md",
+    "computer archetecture/Day 1.md",
+    "Day3.canvas",
+    "Untitled Diagram.svg",
+    "Iapp",
+    "Untitled.base",
+    "Information System",
+    "computer archetecture",
+    "Welcome.md"
+  ]
+}

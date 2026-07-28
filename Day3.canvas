@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"f3812d2aba6db08f","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Central Processing Unit "},
+		{"id":"ae2abeef2b67f555","x":-125,"y":-140,"width":250,"height":61,"type":"text","text":"Control Unit (CU)"},
+		{"id":"d1d3df90c9f83c7e","x":-125,"y":-240,"width":250,"height":60,"type":"text","text":"ALU"},
+		{"id":"8cf0b25583c90cca","x":-125,"y":-340,"width":250,"height":60,"type":"text","text":"Primary Memory(RAM, ROM, Cache memory)"},
+		{"id":"ed6bb39f05a15089","x":-125,"y":-440,"width":250,"height":60,"type":"text","text":"Secondary Memory (hard disk)"}
+	],
+	"edges":[
+		{"id":"c0b9e2909ad4446e","fromNode":"f3812d2aba6db08f","fromSide":"top","toNode":"ae2abeef2b67f555","toSide":"bottom"},
+		{"id":"eb4390e3e609760b","fromNode":"ae2abeef2b67f555","fromSide":"bottom","toNode":"f3812d2aba6db08f","toSide":"top"},
+		{"id":"6cb829c64ea063a9","fromNode":"ae2abeef2b67f555","fromSide":"top","toNode":"d1d3df90c9f83c7e","toSide":"bottom"},
+		{"id":"154af37d33147b87","fromNode":"d1d3df90c9f83c7e","fromSide":"bottom","toNode":"ae2abeef2b67f555","toSide":"top"},
+		{"id":"e45d135c0783f34f","fromNode":"d1d3df90c9f83c7e","fromSide":"top","toNode":"8cf0b25583c90cca","toSide":"bottom"},
+		{"id":"04c2f763d34e690c","fromNode":"d1d3df90c9f83c7e","fromSide":"top","toNode":"8cf0b25583c90cca","toSide":"bottom"},
+		{"id":"f2fa5803e0a89b56","fromNode":"8cf0b25583c90cca","fromSide":"bottom","toNode":"d1d3df90c9f83c7e","toSide":"top"},
+		{"id":"f9380e3358655ccc","fromNode":"8cf0b25583c90cca","fromSide":"top","toNode":"ed6bb39f05a15089","toSide":"bottom"},
+		{"id":"9439ecaacba12222","fromNode":"ed6bb39f05a15089","fromSide":"bottom","toNode":"8cf0b25583c90cca","toSide":"top"}
+	]
+}
