@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information System/Data & Information.md",
+                "file": "00000/Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data & Information"
+              "title": "Git"
             }
           }
         ]
@@ -182,10 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "837e53dd3efb4e2c",
+  "active": "7dac2832d0eb0a38",
   "lastOpenFiles": [
-    "computer archetecture/Day 4.md",
     "Information System/Data & Information.md",
+    "computer archetecture/Day 4.md",
     "computer archetecture/Day 3.md",
     "day4.canvas",
     "computer archetecture/Numeric Characters.md",

@@ -29,4 +29,4 @@ $$Algorithms$$
 
 ##### Git Author related
 
-`git config --global user.name "zinon" user.email "winkoko10825@gmail.com`
+	`git config --global user.name "zinon" user.email "winkoko10825@gmail.com`
