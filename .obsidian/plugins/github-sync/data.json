@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/Zinon-ZE/obsidian-vult.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
