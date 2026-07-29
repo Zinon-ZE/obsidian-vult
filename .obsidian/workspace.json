@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer archetecture/Day 4.md",
+                "file": "Information System/Data & Information.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 4"
+              "title": "Data & Information"
             }
           }
         ]
@@ -183,9 +183,10 @@
   },
   "active": "7dac2832d0eb0a38",
   "lastOpenFiles": [
+    "computer archetecture/Day 4.md",
+    "Information System/Data & Information.md",
     "computer archetecture/Day 3.md",
     "day4.canvas",
-    "computer archetecture/Day 4.md",
     "computer archetecture/Numeric Characters.md",
     "Web Thingy/JavaScript code transformation.md",
     "00000/WEB.md",
