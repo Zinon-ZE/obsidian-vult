@@ -183,11 +183,23 @@
   },
   "active": "7dac2832d0eb0a38",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "Cybersec/Methdology/Enumeration/Web-enumeration/Gobuster.md",
     "00000/Git.md",
     "Information System/Data & Information.md",
     "Web Thingy/JavaScript code transformation.md",
     "Web Thingy",
+=======
+    "Web Thingy/JavaScript code transformation.md",
+    "Web Thingy",
+    "Cybersec/Methdology/Enumeration/Web-enumeration/Gobuster.md",
+>>>>>>> Stashed changes
+=======
+    "Web Thingy/JavaScript code transformation.md",
+    "Web Thingy",
+    "Cybersec/Methdology/Enumeration/Web-enumeration/Gobuster.md",
+>>>>>>> Stashed changes
     "Day3.canvas",
     "Cybersec/Methdology/Web/JavaScript code transformation.md",
     "Cybersec/Methdology/Enumeration/Web-enumeration",
