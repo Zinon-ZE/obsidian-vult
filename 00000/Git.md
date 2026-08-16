@@ -27,6 +27,7 @@ test auto pull
 ##### Git Pushing to github
 `git push origin main` - send local repo to github
 
+adding bruh
 ##### Git Author related
 
 	`git config --global user.name "zinon" user.email "winkoko10825@gmail.com`
