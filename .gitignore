@@ -1,1 +1,17 @@
+# --- Obsidian UI and Cache (Crucial) ---
 .obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/caches/
+.obsidian/graph.json
+
+# --- Optional: Local Plugin State (Recommended) ---
+
+# --- Obsidian Trash Bin ---
+.trash/
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+*.log
+
+
