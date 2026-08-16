@@ -5,7 +5,7 @@
 .obsidian/graph.json
 
 # --- Optional: Local Plugin State (Recommended) ---
-
+.obsidian/plugins/*/data.json
 # --- Obsidian Trash Bin ---
 .trash/
 
