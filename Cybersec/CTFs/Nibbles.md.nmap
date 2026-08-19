@@ -1,0 +1,16 @@
+# Nmap 7.99 scan initiated Fri Jul 31 12:19:38 2026 as: /usr/lib/nmap/nmap --privileged -sV --script=http-enum -oA /home/zinon/Documents/obsidian-vult/Cybersec/CTFs/Nibbles.md -Pn -vvvv 10.129.200.170
+Increasing send delay for 10.129.200.170 from 0 to 5 due to 319 out of 1062 dropped probes since last increase.
+Increasing send delay for 10.129.200.170 from 5 to 10 due to 11 out of 22 dropped probes since last increase.
+Nmap scan report for 10.129.200.170
+Host is up, received user-set (0.29s latency).
+Scanned at 2026-07-31 12:19:38 +08 for 41s
+Not shown: 998 closed tcp ports (reset)
+PORT   STATE SERVICE REASON         VERSION
+22/tcp open  ssh     syn-ack ttl 63 OpenSSH 7.2p2 Ubuntu 4ubuntu2.2 (Ubuntu Linux; protocol 2.0)
+80/tcp open  http    syn-ack ttl 63 Apache httpd 2.4.18 ((Ubuntu))
+|_http-server-header: Apache/2.4.18 (Ubuntu)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Read data files from: /usr/share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Jul 31 12:20:19 2026 -- 1 IP address (1 host up) scanned in 40.69 seconds
