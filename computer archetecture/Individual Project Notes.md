@@ -47,7 +47,6 @@ processors. Hence, multiprocessors can also improve availability
 
 
 
-
 - This is referred to as ***chip level multiprocessing (CMP***).
 - Multicore and multithreading features are designated by nC/nT notation. For example, an 8C/16T CPU with multithreading support has eight cores but processes double that number of simultaneous threads.
 - Each core will also have its own cache plus access to a shared cache.
