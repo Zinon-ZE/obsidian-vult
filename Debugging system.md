@@ -57,3 +57,6 @@ du -sh folder/files # Find out which fkers is causing shit
 | /usr/bin/bash     | interactive login allowed |
 | /usr/sbin/nologin | interactive login refused |
 | /bin/false        | login immediately fails   |
+```
+user -s shell_state username
+```
